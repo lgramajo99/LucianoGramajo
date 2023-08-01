@@ -1,7 +1,7 @@
 # Mi nombre es *_Luciano Nahuel Gramajo_* 
 
 ## ¿Quien soy?
-Soy programador Fullstack a tiempo completo, disfruto aprendiendo tanto con Front-end como en Back-end.
+Soy un apasionado programador Fullstack a tiempo completo, con experiencia tanto en Front-end como en Back-end. Mi compromiso con el aprendizaje constante es una parte esencial de mi trayectoria profesional.
 
 ## Tecnologias que uso:
 <table><tr><td valign="top" width="50%">
