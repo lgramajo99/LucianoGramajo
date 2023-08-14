@@ -45,6 +45,10 @@ Soy un apasionado programador Fullstack a tiempo completo, con experiencia tanto
 <a href="https://linkedin.com/in/lucianogramajo" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+<a href="https://www.talent.soyhenry.com/candidate/14174" target="_blank" 
+ style="margin-bottom: 5px;">
+SOY HENRY TALENT 
+</a>
 </div>  
  
 <br/>
